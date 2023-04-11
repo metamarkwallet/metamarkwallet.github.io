@@ -70,5 +70,3 @@ URL：https://explorer.matic.network/
 点击左上角 
 单击浏览器 
 输入对应的DAPP网址，即可畅通无阻的浏览defi、gamefi等 
- 
-如您有任何使用上的问题，请咨询人工客服  https://t.me/Wallet_service 获取人工一对一解答
